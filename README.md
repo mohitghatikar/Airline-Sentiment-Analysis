@@ -4,6 +4,7 @@ In this project, sentiment analysis is performed on Twitter data for five domest
 Delta and American. The sentiments were classified as either positive or negative. The tweets were collected for two time periods – 
 before thanksgiving and after thanksgiving and the results are visualized.
 
-airline twitter.R -> This file contains the R code for the entire sentiment Analysis.
+## File Description - R
 
-Final Report.pdf -> The results of the analysis explained.
+- airline twitter.R: This file contains the R code for the entire sentiment analysis.
+- Final Report.pdf: The results of the analysis explained.
